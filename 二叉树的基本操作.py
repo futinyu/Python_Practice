@@ -201,3 +201,4 @@
     # print('\n查找孩子：')
     # tree.find_child(tree.root,8)
     # print(tree.count_node(tree.root))
+print(10//10)
